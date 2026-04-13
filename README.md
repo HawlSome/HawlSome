@@ -11,7 +11,7 @@
 
 ## About Me
 
-- **Interests:** Low-level programming, Hard skills, open-source contribution, Security  
+- **Interests:** Low-level programming, DSA, open-source contribution, Security  
 - **Currently learning:** Security, Python, C  
 - **Reach me:** nomenaloic.mail@gmail.com  
 - **Pronouns:** Varandri  
