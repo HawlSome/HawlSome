@@ -31,7 +31,11 @@
 <div align="center">
   
 ![](https://streak-stats.demolab.com/?user=HawlSome&theme=transparent&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HawlSome&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
- 
+
+<br/>
+
+![](https://raw.githubusercontent.com/HawlSome/HawlSome/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
