@@ -1,12 +1,12 @@
 <h1 align="center">echo "Hi there, I'm Loïc"</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=460&lines=Coding+Nerd!;Always+Learning;Craving+Knowledge" />
 </p>
 
 <p align="center">
 	<img src="./corcax.gif" width="400px" />
-</p>
+</p> -->
 
 
 ## About Me
