@@ -15,7 +15,7 @@
 - **Currently learning:** Security, Python, C  
 - **Reach me:** nomenaloic.mail@gmail.com  
 - **Pronouns:** Varandri  
-- **Fun fact:** I am literally Ryan Gosling    
+- **Fun fact:** I might be a Vampire , Im only productive by night    
 
 
 ## Tech Stack
