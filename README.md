@@ -34,6 +34,6 @@
 
 </div>
 
-![snake gif](https://github.com/HawlSome/HawlSome/blob/output/github-snake.svg)
+![snake gif](https://github.com/HawlSome/HawlSome/blob/output/ocean.gif)
 
 
