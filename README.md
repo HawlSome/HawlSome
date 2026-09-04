@@ -14,7 +14,7 @@
 - **Interests:** Low-level programming, DSA, open-source contribution, Security  
 - **Currently learning:** Security, Python, C  
 - **Reach me:** nomenaloic.mail@gmail.com  
-- **Pronouns:** Varandri  
+- **AKA:** Varandri/_Limgrave_wanderer
 - **Fun fact:** Touching grass is good for you and me...    
 
 
